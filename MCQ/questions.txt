@@ -1,0 +1,42 @@
+What is the color of Orange?
+a:Orange
+b:Blue
+c:Green
+d:Red
+a
+What is the color of Jackfruit?
+a:Orange
+b:Blue
+c:Green
+d:Red
+c
+What is the color of GreenApple?
+a:Orange
+b:Blue
+c:Green
+d:Red
+c
+What is the color of RoseWater?
+a:Orange
+b:Rose
+c:White
+d:pink
+d
+What is the capital of India?
+a:Delhi
+b:Gujarat
+c:Pune
+d:Trivandrum
+a
+Who is the father of Adhil?
+a:Salman
+b:dany
+c:sal
+d:Sahad
+d
+What is the color of my suit?
+a:yellow
+b:white
+c:brown
+d:black
+b
